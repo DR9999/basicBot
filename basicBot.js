@@ -181,8 +181,8 @@
     var basicBot = {
         version: "2.3.4",
         status: false,
-        name: "basicBot",
-        loggedInID: null,
+        name: "Poinciana",
+        loggedInID: 5562814,
         scriptLink: "https://rawgit.com/Yemasthui/basicBot/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
@@ -196,7 +196,7 @@
             chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
             startupCap: 1, // 1-200
             startupVolume: 0, // 0-100
-            startupEmoji: false, // true or false
+            startupEmoji: true, // true or false
             cmdDeletion: true,
             maximumAfk: 120,
             afkRemoval: true,
